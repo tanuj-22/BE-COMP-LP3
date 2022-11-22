@@ -1,0 +1,93 @@
+What Is Blockchain?
+
+•	A Blockchain is a decentralized database that is shared among computer network nodes.
+•	Transactional data from numerous sources may be readily collected, integrated, and shared using blockchain cloud services.
+•	Data is divided into common blocks linked together using cryptographic hashes as unique IDs. 
+•	Data integrity is ensured via Blockchain, which uses a single source of truth to eliminate data duplication and increase security. 
+•	Fraud and data tampering is prevented in a blockchain system since data can't be changed without the permission of the nodes of the parties.
+Why Do We Need Different Types of Blockchain
+•	To carry out transactions or data transfers across a secure network.
+•	The way people use Blockchain and distributed ledger technologies or networks, on the other hand, differs from context to situation.
+•	For example, Bitcoin is a digital cryptocurrency transacted using Blockchain and DLT technology. 
+•	Because anyone from anywhere in the world can become a node, verify other nodes, and exchange bitcoins, this form of a blockchain network is a public network.
+•	Assume a bank, on the other hand, is using a private blockchain network.
+•	The network, which will be password-protected, will be accessible only to those the bank has approved. As a result, bank data is accessible only within the local network.
+Similar to these instances, the blockchain network can be set up in various ways based on usage and requirements.
+Types of Blockchain
+There are majorly four types of Blockchain - 
+1. Public Blockchain
+
+•	It is a permissionless distributed ledger on which anybody can join and conduct transactions. 
+•	It is a non-restrictive form of the ledger in which each peer has a copy. This also means that anyone with an internet connection can access the public Blockchain.
+•	This user has access to historical and contemporary records and the ability to perform mining operations.
+•	These complex computations must be performed to verify transactions and add them to the ledger. 
+•	On the blockchain network, no valid record or transaction may be altered. Because the source code is usually open, anybody can check the transactions, uncover problems, and suggest fixes.
+Advantages of Public Blockchain -
+•	Trustable: Public Blockchain nodes do not need to know or trust each other because the proof-of-work procedure ensures no fraudulent transactions.
+•	Secure: A public network can have as many participants or nodes as it wants, making it a secure network. The higher the network's size, the more records are distributed, and the more difficult it is for hackers to hack the entire network.
+•	Open and Transparent: The data on a public blockchain is transparent to all member nodes. Every authorized node has a copy of the blockchain records or digital ledger.
+Disadvantages of Public Blockchain -
+•	Lower TPS: The number of transactions per second in a public blockchain is extremely low. This is because it is a large network with many nodes which take time to verify a transaction and do proof-of-work.
+•	Scalability Issues: Its transactions are processed and completed slowly. This harms scalability. Because the more we try to expand the network's size, the slower it will become.
+•	High Energy Consumption: The proof-of-work device is expensive and requires lots of energy. Technology will undoubtedly need to develop energy-efficient consensus methods.
+Uses of Public Blockchain -
+•	Voting: Governments can use a public blockchain to vote, ensuring openness and trust.
+•	Fundraising: Businesses or initiatives can use the public Blockchain to improve transparency and trust.
+
+
+2. Private Blockchain
+
+•	A blockchain network operates in a private context, such as a restricted network, or is controlled by a single identity. 
+•	While it has a similar peer-to-peer connection and decentralization to a public blockchain network, this Blockchain is far smaller.
+•	They are often run on a small network within a firm or organization rather than open to anybody who wants to contribute processing power. 
+•	Permissioned blockchains and business blockchains are two more terms for them.
+Advantages of Private Blockchain - 
+•	Speed: Private Blockchain transactions are faster. This is because a private network has a smaller number of nodes, which shortens the time it takes to verify a transaction.
+•	Scalability: You can tailor the size of your private Blockchain to meet your specific requirements. This makes private blockchains particularly scalable since they allow companies to easily raise or decrease their network size.
+Disadvantages of Private Blockchain -
+•	Trust Building: In a private network, there are fewer participants than in a private network.
+•	Lower Security: A private blockchain network has fewer nodes or members, so it is more vulnerable to a security compromise.
+•	Centralization: Private blockchains are limited in that they require a central Identity and Access Management (IAM) system to function. This system provides full administrative and monitoring capabilities.
+Uses of Private Blockchain - 
+•	Supply Chain Management: A private blockchain can be used to manage a company's supply chain.
+•	Asset Ownership: A private blockchain can be used to track and verify assets.
+•	Internal Voting: Internal voting is also possible with a private blockchain.
+
+
+
+
+
+
+
+3. Hybrid Blockchain
+
+•	Organizations who expect the best of both worlds use a hybrid blockchain, which combines the features of both private and public blockchains. 
+•	It enables enterprises to construct a private, permission-based system alongside a public, permissionless system, allowing them to choose who has access to certain Blockchain data and what data is made public.
+•	In a hybrid blockchain, transactions and records are typically not made public, but they can be validated if necessary by granting access via a smart contract.
+Advantages of Hybrid Blockchain - 
+•	Secure: Hybrid Blockchain operates within a closed environment, preventing outside hackers from launching a 51 percent attack on the network.
+•	Cost-Effective: It also safeguards privacy while allowing third-party contact. Transactions are inexpensive and quick and scale better than a public blockchain network.
+Disadvantages of Hybrid Blockchain - 
+•	Lack of Transparency: Because information can be hidden, this type of blockchain isn't completely transparent.
+•	Less Incentive: Upgrading can be difficult, and users have no incentive to participate in or contribute to the network.
+Uses of Hybrid Blockchain - 
+•	Real Estate: Real-estate companies can use hybrid networks to run their systems and offer information to the public.
+•	Retail: The hybrid network can also help retailers streamline their processes.
+•	Highly Regulated Markets: Hybrid blockchains are also well-suited to highly regulated areas like the banking sector.
+
+
+4. Consortium Blockchain
+
+•	In the same way that a hybrid blockchain has both private and public blockchain features, a Consortium blockchain, also known as a federated blockchain, does.
+•	However, it differs because it involves various organizational members working together on a decentralized network.
+•	Predetermined nodes control the consensus methods in a consortium blockchain. 
+•	It has a validator node responsible for initiating, receiving, and validating transactions. Transactions can be initiated or received by member nodes.
+Advantages of Consortium Blockchain - 
+•	Secure: A consortium blockchain is more secure, scalable, and efficient than a public blockchain network. It, like private and mixed blockchains, has access controls.
+Disadvantages of Consortium Blockchain - 
+•	Lack of Transparency: The consortium blockchain has a lower degree of transparency. If a member node is infiltrated, it can still be hacked, and the Blockchain's rules can render the network inoperable.
+Uses of Consortium Blockchain -
+•	Banking and Payments: A consortium can be formed by a group of banks working together. They have control over which nodes will validate transactions.
+•	Research: A consortium blockchain can be employed to share research data and outcomes.
+•	Food Tracking: It is also apt for food tracking.
+
